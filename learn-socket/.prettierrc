@@ -1,0 +1,17 @@
+{
+    "trailingComma": "none",
+    "tabWidth": 4,
+    "useTabs": false,
+    "semi": false,
+    "singleQuote": true,
+    "bracketSpacing": true,
+    "printWidth": 120,
+    "overrides": [
+        {
+            "files": ["package.json", "index.html"],
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ]
+}
